@@ -38,8 +38,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Prat33k18/Prat33k18/output/snake.svg" alt="Snake animation" />
-###
+<!--<img src="https://raw.githubusercontent.com/Prat33k18/Prat33k18/output/snake.svg" alt="Snake animation" />!-->
+<img src="https://raw.githubusercontent.com/Prat33k18/Prat33k18/output/dist/snake.svg" alt="Snake animation" />
+
 
 <br clear="both">
 
