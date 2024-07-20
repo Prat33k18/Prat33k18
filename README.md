@@ -39,6 +39,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Prat33k18/Prat33k18/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Prat33k18/Prat33k18/output/snake.svg" alt="Snake animation" />
 
 ###
 
