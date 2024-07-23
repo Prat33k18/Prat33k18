@@ -9,7 +9,7 @@ jobs:
   generate-snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Prat33k18
         uses: actions/checkout@v4
 
       - name: Set up Node.js
