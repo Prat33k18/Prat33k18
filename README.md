@@ -62,7 +62,6 @@
   <img src="https://streak-stats.demolab.com?user=Prat33k18&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-## Snake Eating My Contributions 
+##
 
-
-![snake gif](https://github.com/Prat33k18/Prat33k18/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/Prat33k18/Prat33k18/blob/output/github-contribution-grid-snake.svg)!-->s
