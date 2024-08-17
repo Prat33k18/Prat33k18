@@ -6,7 +6,8 @@
 
 <br clear="both">
 
-<p align="center">Hi there! I'm Prathik currently pursuing my Master of Computer Applications (MCA) and have a keen interest in full-stack development. My journey in the tech world has equipped me with a strong foundation in Java, along with a solid grasp of web development fundamentals. Beyond coding, I’m an avid gamer who enjoys exploring new games and the technologies behind them. I’m passionate about continually learning and growing in the field, aiming to create seamless and innovative user experiences.</p>
+<p align="center">Hi, I'm Prathik, a passionate Master of Computer Applications (MCA) student with a deep interest in full-stack development. My journey in the tech world has provided me with a solid foundation in Java and a comprehensive understanding of web development. I thrive on building dynamic, user-friendly applications that deliver seamless experiences.
+         Beyond the code, I'm an avid gamer, always curious about the technologies that power the games I play. This curiosity drives me to continually learn and explore new areas of development, with the goal of pushing the boundaries of what's possible in user experience. I'm eager to connect, collaborate, and grow in this ever-evolving field.</p>
 
 ###
 
