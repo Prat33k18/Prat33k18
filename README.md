@@ -6,8 +6,7 @@
 
 <br clear="both">
 
-<p align="center">Hi, I'm Prathik, a passionate Master of Computer Applications (MCA) student with a deep interest in full-stack development. My journey in the tech world has provided me with a solid foundation in Java and a comprehensive understanding of web development. I thrive on building dynamic, user-friendly applications that deliver seamless experiences.
-         Beyond the code, I'm an avid gamer, always curious about the technologies that power the games I play. This curiosity drives me to continually learn and explore new areas of development, with the goal of pushing the boundaries of what's possible in user experience. I'm eager to connect, collaborate, and grow in this ever-evolving field.</p>
+<p align="center"Hi, I'm Prathik, an MCA student passionate about full-stack development. I have a solid foundation in Java and web development, and I love building dynamic, user-friendly applications. Beyond coding, I'm an avid gamer, always curious about the technologies behind the games I play. I'm eager to connect, collaborate, and grow in this ever-evolving field.</p>
 
 ###
 
@@ -24,17 +23,17 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
 </div>
 
 ###
@@ -45,10 +44,35 @@
 <img src="https://raw.githubusercontent.com/Prat33k18/Prat33k18/output/snake.svg" alt="Snake animation" />!-->
 
 
+<h3 align="left">Tools:</h3>
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60" />
+  </a>    
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" />
+  </a>    
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" width="60" height="60" />
+  </a>    
+  <a href="https://leetcode.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="60" height="60" />
+  </a>    
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="60" height="60" />
+  </a>
+</p>
+
+
+
+
 
 
 ###
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <br clear="both">
 
@@ -64,5 +88,8 @@
 </div>
 
 ##
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Prat33k18&&style=flat-square" align="center" />
+</div>  
 
-<!--[snake gif](https://github.com/Prat33k18/Prat33k18/blob/output/github-contribution-grid-snake.svg)!-->
+<!--[snake gif](https://github.com/Prat33k18/Prat33k18/blob/output/github-contribution-grid-snake.s)!-->
