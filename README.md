@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="center"Hi, I'm Prathik, an MCA student passionate about full-stack development. I have a solid foundation in Java and web development, and I love building dynamic, user-friendly applications. Beyond coding, I'm an avid gamer, always curious about the technologies behind the games I play. I'm eager to connect, collaborate, and grow in this ever-evolving field.</p>
+<p align="center">Hi, I'm Prathik, an MCA student passionate about full-stack development. I have a solid foundation in Java and web development, and I love building dynamic, user-friendly applications. Beyond coding, I'm an avid gamer, always curious about the technologies behind the games I play. I'm eager to connect, collaborate, and grow in this ever-evolving field.</p>
 
 ###
 
