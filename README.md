@@ -1,6 +1,6 @@
 ## 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-left: 50px; margin-top: 10px; margin-bottom: 20px; max-height: 100px;">
-  <img align ="center" src="/Images/tenor.gif" alt="hello" style="height: 200px; width: 385px; object-fit: cover; border-radius: 50%;" />
+  <img align ="center" style = " src="/Images/tenor.gif" alt="hello" style="height: 200px; width: 385px; object-fit: cover; border-radius: 50%;" />
   
 </div>
 
