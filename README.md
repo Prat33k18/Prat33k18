@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  Hi, I'm <b>Prathik</b> — an MCA student passionate about full-stack development. I have a solid foundation in Java Full Stack and web development, and I love building dynamic, user-friendly applications. Beyond coding, I'm an avid gamer, always curious about the technologies behind the games I play. I'm eager to connect, collaborate, and grow in this ever-evolving field.
+  Hi, I'm <b>Prathik</b> — a Web Developer who knows the depth of full-stack development. I have a solid foundation in Java Full Stack and web development, and I love building dynamic, user-friendly applications. Beyond coding, I'm an avid gamer, always curious about the technologies behind the games I play. I'm eager to connect, collaborate, and grow in this ever-evolving field.
 </p>
 
 <div align="center">
@@ -30,12 +30,12 @@
 
 <img align="right" alt="coding gif" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- ✨ Creating bugs since 2020
-- 📚 Currently learning **React**
+- 🔭 Building full-stack apps with **Java (Spring Boot)** on the backend and **React.js** on the frontend
+- 🔐 Comfortable designing **RESTful APIs** and implementing **JWT-secured authentication**
+- ☁️ Hands-on with deployment on **Render, Vercel & Railway**, with growing exposure to **AWS**
+- 📚 Currently deepening my knowledge of **React** and microservices fundamentals
 - 🎯 Goal: to be a better version of myself, every day
 - 🎲 Fun fact: if I'm not coding, you'll find me gaming or hitting the gym
-- 💬 Ask me about: **Java, Spring Boot, React, MySQL**
-- ⚡ Fun fact: my code compiles on the first try... occasionally
 
 <br clear="both">
 
@@ -94,8 +94,7 @@
 
 <br><br>
 
-<!-- Generated automatically by the "metrics" GitHub Action — see metrics.yml.
-     Replace the src below with your repo path once the workflow has run once. -->
+
 <img src="./github-metrics.svg" width="100%" alt="GitHub metrics" />
 
 </div>
