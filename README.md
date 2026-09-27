@@ -1,5 +1,9 @@
 ## 
-<img src="./Images/tenor.gif" alt="hello">
+<!-- <img src="./Images/tenor.gif" alt="hello"> -->
+
+<p align="center">
+  <img src="./Images/tenor.gif" alt="hello" width="600">
+</p>
 
 ###
 
